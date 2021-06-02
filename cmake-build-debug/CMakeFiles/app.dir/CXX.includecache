@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tezz/CLionProjects/OurVision/main.cpp
+iostream
+-
+tesseract/baseapi.h
+-
+leptonica/allheaders.h
+-
+
